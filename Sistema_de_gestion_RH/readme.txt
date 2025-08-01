@@ -1,0 +1,1 @@
+Todos los archivos fueron subidos en este apartado, pero para la hora de la instalacion visualizar el manual de usuario donde especifica la manera correcta de realizar la instalacion 

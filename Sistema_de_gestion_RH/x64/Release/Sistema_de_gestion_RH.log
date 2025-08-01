@@ -1,0 +1,9 @@
+﻿  Empleado.cpp
+  Generando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\JDani\Desktop\Sistema_de_gestion_RH\Sistema_de_gestion_RH\Sistema_de_gestion_RH\Empleado.cpp(1107): warning C4715: 'Administrador::crearNomina': no todas las rutas de acceso de control devuelven un valor
+C:\Users\JDani\Desktop\Sistema_de_gestion_RH\Sistema_de_gestion_RH\Sistema_de_gestion_RH\Utilidades.cpp(111): warning C4715: 'Utilidades::validarOtroNombreApellido': no todas las rutas de acceso de control devuelven un valor
+C:\Users\JDani\Desktop\Sistema_de_gestion_RH\Sistema_de_gestion_RH\Sistema_de_gestion_RH\Empleado.cpp(622): warning C4715: 'Administrador::anadirEmpleado': no todas las rutas de acceso de control devuelven un valor
+  All 1260 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Sistema_de_gestion_RH.vcxproj -> C:\Users\JDani\Desktop\Sistema_de_gestion_RH\Sistema_de_gestion_RH\x64\Release\Sistema_de_gestion_RH.exe
